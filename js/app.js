@@ -95,7 +95,7 @@ const team_details = [
         "name":"Ritu Kaba",
         "image":"images/Ritu (Medium).JPG",
         "designation":"Digital Media HOD",
-        "phone":"+91 75063 97374"
+        "phone":"+91 93262 32131"
     },
     {
         "name":"Disha Jain",
