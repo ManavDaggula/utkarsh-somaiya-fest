@@ -32,7 +32,7 @@ const team_details = [
         "phone": "+91 7506740937"
     },
     {
-        "name": "Teerth Thaakur",
+        "name": "Teerth Santush Thaakur",
         "image": "images/Teerth (Medium).JPG",
         "designation": "Associate Contingent Leader",
         "phone": "+91 9136074510"
