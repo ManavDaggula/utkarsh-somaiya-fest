@@ -648,7 +648,7 @@ sports.forEach(ele => {
                 <h3 class="fs-5">${ele.ss_name}</h3>
                 <div class="d-flex justify-content-center t-center row row-gap-4">
                     <div class="col-lg-4">
-                        <span>Duration:</span>
+                        <span>Fee:</span>
                         <span>${ele.ss_fees}/-</span>
                     </div>
                     <div class="col-lg-4">
@@ -674,7 +674,7 @@ esports.forEach(ele => {
                 <h3 class="fs-5">${ele.es_name}</h3>
                 <div class="d-flex justify-content-center t-center row row-gap-4">
                     <div class="col-lg-4">
-                        <span>Duration:</span>
+                        <span>Fee:</span>
                         <span>${ele.es_fees}/-</span>
                     </div>
                     <div class="col-lg-4">
