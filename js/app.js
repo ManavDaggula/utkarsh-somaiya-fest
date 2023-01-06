@@ -17,37 +17,37 @@ const team_details = [
         "name": "Gouri Sanjay Naik",
         "image": "images/gouri (Medium).JPG",
         "designation": "General Secretary",
-        "phone": "+91 93266 77304"
+        "phone": "+91 9326677304"
     },
     {
         "name": "Karan Chaoudhary",
         "image": "images/Karan-new (Medium).JPG",
         "designation": "Joint Secretary",
-        "phone": "+91 94635 48165"
+        "phone": "+91 9463548165"
     },
     {
         "name": "Sanaeya",
         "image": "images/sanaeya (Medium).JPG",
         "designation": "Contingent Leader",
-        "phone": "+91 75067 40937"
+        "phone": "+91 7506740937"
     },
     {
         "name": "Teerth Thaakur",
         "image": "images/Teerth (Medium).JPG",
         "designation": "Associate Contingent Leader",
-        "phone": "+91 91360 74510"
+        "phone": "+91 9136074510"
     },
     {
         "name": "Mayur Jagtap",
         "image": "images/Mayur (Medium).JPG",
         "designation": "Events HOD",
-        "phone": "+91 97027 11472"
+        "phone": "+91 9702711472"
     },
     {
         "name": "Anish Patwardhan",
         "image": "images/Anish (Medium).JPG",
         "designation": "Events HOD",
-        "phone": "+91 75063 97374"
+        "phone": "+91 7506397374"
     },
     {
         "name":"Ashwathy Preman",
@@ -89,79 +89,79 @@ const team_details = [
         "name":"Hidayat Pathan",
         "image":"images/Hidayat (Medium).JPG",
         "designation":"Digital Media HOD",
-        "phone":"+91 77385 26373"
+        "phone":"+91 7738526373"
     },
     {
         "name":"Ritu Kaba",
         "image":"images/Ritu (Medium).JPG",
         "designation":"Digital Media HOD",
-        "phone":"+91 93262 32131"
+        "phone":"+91 9326232131"
     },
     {
         "name":"Disha Jain",
         "image":"images/Disha (Medium).JPG",
         "designation":"Digital Media AHOD",
-        "phone":"+91 98673 23597"
+        "phone":"+91 9867323597"
     },
     {
         "name":"Rutuja Dhoke",
         "image":"images/Rutuja (Medium).JPG",
         "designation":"Admin & Logistics HOD, Security HOD",
-        "phone":"+91 88283 68293"
+        "phone":"+91 8828368293"
     },
     {
         "name":"Ancey Varghese",
         "image":"images/Ancey (Medium).JPG",
         "designation":"Admin & Logistics AHOD",
-        "phone":"+91 91527 99759"
+        "phone":"+91 9152799759"
     },
     {
         "name":"Jayhind",
         "image":"images/Jayhind (Medium).JPG",
         "designation":"Admin & Logistics AHOD",
-        "phone":"+91 91527 99759"
+        "phone":"+91 8879673472"
     },
     {
         "name":"Anuj Yadav",
         "image":"images/Anuj (Medium).JPG",
         "designation":"Admin & Logistics AHOD",
-        "phone":"+91 91255 81095"
+        "phone":"+91 9125581095"
     },
     {
         "name":"Indrayani Phadtare",
         "image":"images/Indrayani (Medium).JPG",
         "designation":"Finance HOD",
-        "phone":"+91 77788 84884"
+        "phone":"+91 7778884884"
     },
     {
         "name":"Sargam Thakur",
         "image":"images/Sargam (Medium).JPG",
         "designation":"Finance HOD",
-        "phone":"+91 99208 37184"
+        "phone":"+91 9920837184"
     },
     {
         "name":"Lulua Gadiwala",
         "image":"images/Lullu (Medium).JPG",
         "designation":"Creativity HOD",
-        "phone":"+91 86525 35297"
+        "phone":"+91 8652535297"
     },
     {
         "name":"Salman Mapari",
         "image":"images/Salman (Medium).JPG",
         "designation":"Creativity AHOD",
-        "phone":"+91 84509 84456"
+        "phone":"+91 8450984456"
     },
     {
         "name":"Anshupriya Jha",
         "image":"images/Anshu (Medium).JPG",
         "designation":"Creativity AHOD",
-        "phone":"+91 84510 93795"
+        "phone":"+91 8451093795"
     },
     {
         "name":"Nirali Doshi",
         "image":"images/Nirali (Medium).JPG",
         "designation":"Public Relations HOD",
-        "phone":"+91 98924 26762"
+        "phone":"+91 9892426762"
     },
     {
         "name":"Preeti Gupta",
