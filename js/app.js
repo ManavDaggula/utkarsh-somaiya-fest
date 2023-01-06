@@ -330,7 +330,7 @@ const mass_media = [
     },
     {
         "mm_name": "Shoot the Amethyst (journalism+short film)",
-        "mm_duration": "Entire Day",
+        "mm_duration": "24",
         "mm_player": 3,
         "mm_category": "Premium",
         "mm_link": "https://docs.google.com/forms/d/e/1FAIpQLScqFeOrBswyl2bVA9vJ3tpVq65xd8-R-pTEKFG4nMdFI6LO2Q/viewform?usp=sf_link"
