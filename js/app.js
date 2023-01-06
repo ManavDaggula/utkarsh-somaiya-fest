@@ -20,7 +20,7 @@ const team_details = [
         "phone": "+91 9326677304"
     },
     {
-        "name": "Karan Chaoudhary",
+        "name": "Karan Choudhary",
         "image": "images/Karan-new (Medium).JPG",
         "designation": "Joint Secretary",
         "phone": "+91 9463548165"
@@ -315,14 +315,14 @@ const fine_arts = [
 
 const mass_media = [
     {
-        "mm_name": "Fluorite's Magic (ad film)",
+        "mm_name": "Fluorite's Magic (Product Advertisement)",
         "mm_duration": 2.5,
         "mm_player": 2,
         "mm_category": "Flagship",
         "mm_link": "https://docs.google.com/forms/d/e/1FAIpQLSfQ_GqiqAXpTjORDqjs3W5rMo87gxu_I5PDNTGxGES8MgzmBQ/viewform?usp=sf_link"
     },
     {
-        "mm_name": "Capture the perceiving of Gaia",
+        "mm_name": "Capture the perceiving of Gaia (Macro Mobile Photography)",
         "mm_duration": 2,
         "mm_player": 1,
         "mm_category": "Premium",
